@@ -207,7 +207,7 @@ which is defined in sleef.h as follows:
 
 <p class="header">Description</p>
 
-These are the vectorized functions of [Sleef_sin_u10](../libm#sin-1ulp) with the same accuracy specification.
+These are the vectorized functions of [Sleef_sin_u10](../#sin-1ulp) with the same accuracy specification.
 
 <hr/>
 <p class="funcname">Vectorized single precision sine functions with 1.0 ULP error bound</p>
