@@ -56,7 +56,7 @@ which is defined in sleef.h as follows:
 <p class="header">Description</p>
 
 <p class="noindent">
-These are the vectorized functions of <a href="../#Sleef_sinf_u10"><b class="func">Sleef_sinf_u10</b></a>. This function may be less accurate than the scalar function since AArch32 NEON is not IEEE 754-compliant.
+These are the vectorized functions of <a href="/2-references/libm#Sleef_sinf_u10"><b class="func">Sleef_sinf_u10</b></a>. This function may be less accurate than the scalar function since AArch32 NEON is not IEEE 754-compliant.
 </p>
 
 <hr/>
