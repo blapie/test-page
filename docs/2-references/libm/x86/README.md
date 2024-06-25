@@ -1,6 +1,6 @@
 ---
 layout: default
-title: x86
+title: X86
 parent: Single & Double Precision
 grand_parent: References
 permalink: /2-references/libm/x86
