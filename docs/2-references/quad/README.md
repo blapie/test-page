@@ -3,7 +3,7 @@ layout: default
 title: Quadruple Precision
 parent: References
 has_children: true
-permalink: /2-references/quad/index
+permalink: /2-references/quad
 ---
 
 <h1>Quadruple Precision Math Library reference</h1>
