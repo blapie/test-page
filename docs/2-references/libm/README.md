@@ -3,7 +3,7 @@ layout: default
 title: Single & Double Precision
 parent: References
 has_children: true
-permalink: /2-references/libm
+permalink: /2-references/libm/sleef
 ---
 
 ## Single & Double Precision Math library reference
