@@ -15,9 +15,9 @@ relative_links:
   collections: true
 
 
-plugins:
-  - jekyll-readme-index
-readme_index:
-  enabled:          true
-  remove_originals: false
-  with_frontmatter: true
+#plugins:
+#  - jekyll-readme-index
+#readme_index:
+#  remove_originals: false
+#  enabled:          true
+#  with_frontmatter: true
